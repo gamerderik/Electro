@@ -1,6 +1,6 @@
 {
-    "SoftwareVersion": "1.0",
-    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1342503947419517031/1343586278783848478/Electro.zip?ex=67bdcfbb&is=67bc7e3b&hm=fa7256b1caf411a841de700bd4a88734ccdf3300ce17de7f32505a07bc9a8969&",
+    "SoftwareVersion": "1.1",
+    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1342503947419517031/1343945905795108955/Electro.zip?ex=67bf1ea9&is=67bdcd29&hm=21b297efcfa8856dc6b2c6793653e6e9045fe402efcaef25735b855f993b4b61&",
     "Status":"True",
-    "Changelog":""
+    "Changelog":"Fixed dll error"
 }
